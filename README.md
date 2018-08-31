@@ -1,2 +1,3 @@
 # learning-rxjs
-rxjs 學習筆記與範例
+
+深入淺出 RxJS - 學習筆記與範例
